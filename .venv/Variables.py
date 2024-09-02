@@ -4,7 +4,7 @@
 firstValue= 5*6
 secondValue= 8/3
 thirdValue= 8//3
-fourthValue= 8 % 3
+fourthValue= 8 %3
 fifthValue= 4200000 + 23090
 sixthValue= 4200000-7633
 
